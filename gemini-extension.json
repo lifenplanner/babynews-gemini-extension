@@ -1,0 +1,11 @@
+{
+  "name": "babynews",
+  "version": "1.0.0",
+  "description": "BabyNews (베이비뉴스): Korean pregnancy, birth and parenting news, curated Q&A and regional childbirth support programs. Read-only, no login.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "babynews": {
+      "httpUrl": "https://www.ibabynews.com/mcp"
+    }
+  }
+}
